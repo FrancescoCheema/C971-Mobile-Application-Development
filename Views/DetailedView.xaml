@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:C971.Models"
+             x:Class="C971.Views.DetailedView"
+             Title="DetailedView">
+    <VerticalStackLayout>
+        <Label Text="Term Title:" />
+        <Label x:Name="termTitleLabel" Text="{Binding TermTitle}" />
+
+        <Label Text="Start:" />
+        <Label x:Name="startLabel" Text="{Binding Start}" />
+
+        <Label Text="End:" />
+        <Label x:Name="endLabel" Text="{Binding End}" />
+    </VerticalStackLayout>
+</ContentPage>

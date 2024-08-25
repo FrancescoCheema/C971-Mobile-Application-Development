@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C971.Views.AddCourse"
+             Title="AddCourse">
+    <VerticalStackLayout>
+        <Label Text="Course Name:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"/>
+        <Entry x:Name="courseTitleLabel" Placeholder="Enter course's name" FontSize="Small" Grid.Column="0" Grid.Row="7" VerticalOptions="Center"  Margin="0,0,0,10"/>
+
+        <Label Text="Start:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"/>
+        <DatePicker x:Name="CoursePicker" Date="{Binding StartCourseDate}"/>
+
+        <Label Text="End:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold" />
+        <DatePicker x:Name="CourseEndPicker" Date="{Binding EndCourseDate}" />
+
+        <Label Text="Course Notes:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"/>
+        <Entry x:Name="courseNotesEntry"  Placeholder="Enter your notes" FontSize="Small"  Grid.Column="0" Grid.Row="9" Grid.ColumnSpan="2" IsEnabled="True"/>
+
+        <Button x:Name="ShareButton" Text="Share" FontSize="10" Grid.Column="1" Grid.Row="10" HeightRequest="32" CornerRadius="50" Margin="0,0,0,20" Clicked="ShareButton_Clicked"/>
+
+        <Label Text="Notifications:" FontSize="Small" Grid.Column="0" Grid.Row="11" VerticalOptions="Center" FontAttributes="Bold"/>
+        <Switch x:Name="notifications" Grid.Column="1" Grid.Row="11" Toggled="Notifications_Toggled"/>
+        <Label Text="Course Status:" FontSize="Small" FontAttributes="Bold"/>
+
+        <Picker x:Name="picker" Title="Select a status" SelectedItem="{Binding CourseStatus}">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>In progress</x:String>
+                    <x:String>Completed</x:String>
+                    <x:String>Dropped</x:String>
+                    <x:String>Planning to take</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <Label x:Name="instructor" Text="Instructor's name:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"
+        VerticalOptions="Center" 
+        HorizontalOptions="Start"></Label>
+        <Entry x:Name="instructorField" Placeholder="Enter your instructor's name" VerticalOptions="Center" HorizontalOptions="Start" />
+        <Label x:Name="phone" Text="Instructor's phone number:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"
+ VerticalOptions="Center" 
+ HorizontalOptions="Start"></Label>
+        <Entry x:Name="phoneField" Placeholder="Enter your instructor's phone number" VerticalOptions="Center" HorizontalOptions="Start" />
+        <Label x:Name="email" Text="Instructor's email address:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"
+VerticalOptions="Center" 
+HorizontalOptions="Start"></Label>
+        <Entry x:Name="emailField" Placeholder="Enter your instructor's email address" VerticalOptions="Center" HorizontalOptions="Start" />
+        <Button x:Name="saveCourse" Text="Save" FontSize="10" Grid.Column="1" Grid.Row="10" HeightRequest="32" CornerRadius="50" Margin="0,10,0,20" Clicked="Button_Clicked" />
+        <Button Text="Cancel" FontSize="10" Grid.Column="1" Grid.Row="10" HeightRequest="32" CornerRadius="50" Margin="0,0,0,20" Clicked="Button_Clicked_1" />
+        <RadioButton Content="Objective Assessment" CheckedChanged="RadioButton_CheckedChanged"></RadioButton>
+        <RadioButton Content="Performance Assessment" CheckedChanged="RadioButton_CheckedChanged_1"></RadioButton>
+    </VerticalStackLayout>
+</ContentPage>

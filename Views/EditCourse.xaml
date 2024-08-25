@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:C971.Models"
+             x:Class="C971.Views.EditCourse"
+             Title="EditCourse">
+    <VerticalStackLayout>
+        <Label Text="Course Name:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"/>
+        <Entry x:Name="courseTitleLabel" Text="{Binding CourseTitle}" FontSize="Small" Grid.Column="0" Grid.Row="7" VerticalOptions="Center"  Margin="0,0,0,10"/>
+
+        <Label Text="Start:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"/>
+        <DatePicker x:Name="CoursePicker" Date="{Binding StartCourse}"/>
+
+        <Label Text="End:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold" />
+        <DatePicker x:Name="CourseEndPicker" Date="{Binding EndCourse}" />
+
+        <Label Text="Course Notes:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"/>
+        <Label x:Name="courseNotesEntry"  Text="{Binding CourseNotes}" FontSize="Small"  Grid.Column="0" Grid.Row="9" Grid.ColumnSpan="2" IsEnabled="True"/>
+
+        <Button x:Name="ShareButton" Text="Share" FontSize="10" Grid.Column="1" Grid.Row="10" HeightRequest="32" CornerRadius="50" Margin="0,0,0,20" Clicked="ShareButton_Clicked"/>
+
+        <Label Text="Notifications:" FontSize="Small" Grid.Column="0" Grid.Row="11" VerticalOptions="Center" FontAttributes="Bold"/>
+        <Switch x:Name="notifications" Grid.Column="1" Grid.Row="11" Toggled="Notifications_Toggled"/>
+        <Label Text="Course Status:" FontSize="Small" FontAttributes="Bold"/>
+
+        <Picker x:Name="picker" Title="Select a status">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>In progress</x:String>
+                    <x:String>Completed</x:String>
+                    <x:String>Dropped</x:String>
+                    <x:String>Planning to take</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <Label x:Name="instructor" Text="Instructor's name:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"
+        VerticalOptions="Center" 
+        HorizontalOptions="Start"></Label>
+        <Entry x:Name="instructorField" Text="{Binding InstructorName}" VerticalOptions="Center" HorizontalOptions="Start" />
+        <Label x:Name="phone" Text="Instructor's phone number:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"
+ VerticalOptions="Center" 
+ HorizontalOptions="Start"></Label>
+        <Entry x:Name="phoneField" Text="{Binding InstructorPhone}" VerticalOptions="Center" HorizontalOptions="Start" />
+        <Label x:Name="email" Text="Instructor's email address:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"
+VerticalOptions="Center" 
+HorizontalOptions="Start"></Label>
+        <Entry x:Name="emailField" Text="{Binding InstructorEmail}" VerticalOptions="Center" HorizontalOptions="Start" />
+        <Button x:Name="saveButton" Text="Save" FontSize="10" Grid.Column="1" Grid.Row="10" HeightRequest="32" CornerRadius="50" Margin="0,0,0,20" Clicked="Button_Clicked_1" IsEnabled="True"/>
+        <Button Text="Cancel" FontSize="10" Grid.Column="1" Grid.Row="10" HeightRequest="32" CornerRadius="50" Margin="0,0,0,20" Clicked="Button_Clicked" />
+    </VerticalStackLayout>
+</ContentPage>

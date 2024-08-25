@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C971.Views.ObjectiveAssessment"
+             Title="ObjectiveAssessment">
+    <VerticalStackLayout>
+        <Grid ColumnSpacing="10" RowSpacing="10">
+            <Label Text="Assessment Name:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"></Label>
+
+            <Entry Grid.Row="9" Grid.Column="1" Text="Objective Assessment for" Margin="0,22,0,0" IsEnabled="False"/>
+
+            <Label Grid.Row="7" Grid.Column="0" Text="{Binding CourseTitle}" VerticalOptions="Center" Margin="170,30,0,10" />
+
+        </Grid>
+        <Label Text="Start:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"/>
+        <DatePicker x:Name="CoursePicker" Date="{Binding StartCourse}" />
+
+        <Label Text="End:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold" />
+        <DatePicker x:Name="CourseEndPicker" Date="{Binding EndCourse}" />
+
+        <Label Text="Notifications:" FontSize="Small" Grid.Column="0" Grid.Row="11" VerticalOptions="Center" FontAttributes="Bold"/>
+        <Switch x:Name="notifications" Grid.Column="1" Grid.Row="11" IsEnabled="True" />
+    </VerticalStackLayout>
+</ContentPage>

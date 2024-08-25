@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C971.Views.EditTerm"
+             Title="DetailedView">
+    <VerticalStackLayout>
+        <Entry x:Name="course"
+            Placeholder="Enter course's title:"
+            VerticalOptions="Center" 
+            HorizontalOptions="Start" />
+        <DatePicker Date="{Binding start}" />
+        <DatePicker Date="{Binding end}" />
+        <Picker x:Name="picker"
+                Title="Select the course's status">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>In Progress</x:String>
+                    <x:String>Completed</x:String>
+                    <x:String>Dropped</x:String>
+                    <x:String>Plan to take</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        <Entry x:Name="instructor"
+        Placeholder="Enter Instructor's name:"
+        VerticalOptions="Center" 
+        HorizontalOptions="Start" />
+        <Entry x:Name="phone"
+        Placeholder="Enter phone number:"
+        VerticalOptions="Center" 
+        HorizontalOptions="Start" />
+        <Entry x:Name="email"
+        Placeholder="Enter email address:"
+        VerticalOptions="Center" 
+        HorizontalOptions="Start" />
+        <Button Text="Save" />
+    </VerticalStackLayout>
+</ContentPage>

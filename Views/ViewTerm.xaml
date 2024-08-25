@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C971.Views.ViewTerm"
+             Title="ViewTerm">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="ViewDetails" Text="View Details" Clicked="ViewDetails_Clicked" Order="Primary"></ToolbarItem>
+        <ToolbarItem x:Name="Assessments" Text="Assessments" Clicked="Assessments_Clicked" Order="Primary"></ToolbarItem>
+        <ToolbarItem x:Name="EditCourse" Text="Edit Course" Clicked="EditCourse_Clicked" Order="Primary"></ToolbarItem>
+        <ToolbarItem x:Name="DeleteCourse" Text="Delete Course" Clicked="DeleteCourse_Clicked" Order="Secondary"></ToolbarItem>
+        <ToolbarItem x:Name="AdddCourse" Text="Add Course" Clicked="AdddCourse_Clicked" Order="Secondary"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <VerticalStackLayout>
+        <CollectionView
+         x:Name="collectionView" SelectionMode="Single" SelectionChanged="collectionView_SelectionChanged_1">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <VerticalStackLayout>
+                        <Label Text="{Binding CourseTitle}"  />
+                    </VerticalStackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+</ContentPage>

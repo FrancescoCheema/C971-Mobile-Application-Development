@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:C971.Models"
+             x:Class="C971.Views.ViewDetails"
+             Title="ViewDetails">
+    <VerticalStackLayout>
+        <VerticalStackLayout>
+            <Label Text="Course Name:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"/>
+            <Label x:Name="courseTitleLabel" Text="{Binding CourseTitle}" FontSize="Small" Grid.Column="0" Grid.Row="7" VerticalOptions="Center"  Margin="0,0,0,10"/>
+
+            <Label Text="Start:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"/>
+            <Label x:Name="startCourseLabel" Text="{Binding StartCourse, StringFormat='{}{0:MM/dd/yyyy}'}" FontSize="Small" Grid.Column="0" Grid.Row="7" VerticalOptions="Center"  Margin="0,0,0,10" />
+
+            <Label Text="End:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold" />
+            <Label x:Name="endCourseLabel" Text="{Binding EndCourse, StringFormat='{}{0:MM/dd/yyyy}'}" FontSize="Small" Grid.Column="0" Grid.Row="7" VerticalOptions="Center"  Margin="0,0,0,10" />
+
+            <Label Text="Course Status:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold" />
+            <Label x:Name="courseStatusLabel" Text="{Binding CourseStatus}" FontSize="Small" Grid.Column="0" Grid.Row="7" VerticalOptions="Center"  Margin="0,0,0,10"/>
+
+            <Label Text="Course Notes:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"/>
+            <Label x:Name="courseNotesEntry"  Text="{Binding CourseNotes}" FontSize="Small"  Grid.Column="0" Grid.Row="9" Grid.ColumnSpan="2" IsEnabled="True"/>
+                    
+            <Button x:Name="ShareButton" Text="Share" FontSize="10" Grid.Column="1" Grid.Row="10" HeightRequest="32" CornerRadius="50" Margin="0,0,0,20" Clicked="ShareButton_Clicked"/>
+
+            <Label Text="Notifications:" FontSize="Small" Grid.Column="0" Grid.Row="11" VerticalOptions="Center" FontAttributes="Bold"/>
+            <Switch x:Name="notifications" Grid.Column="1" Grid.Row="11" IsEnabled="True"/>
+
+            <Label Text="Instructor's Name:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold" />
+            <Label Text="{Binding InstructorName}" FontSize="Small" Grid.Column="0" Grid.Row="7" VerticalOptions="Center"  Margin="0,0,0,10" />
+
+            <Label Text="Instructor's Phone Number:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold" />
+            <Label x:Name="instructorPhoneLabel" Text="{Binding InstructorPhone}" FontSize="Small" Grid.Column="0" Grid.Row="7" VerticalOptions="Center"  Margin="0,0,0,10" />
+
+            <Label Text="Instructor's Email address:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold" />
+            <Label x:Name="instructorEmailLabel" Text="{Binding InstructorEmail}" FontSize="Small" Grid.Column="0" Grid.Row="7" VerticalOptions="Center"  Margin="0,0,0,10" />
+        </VerticalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>
