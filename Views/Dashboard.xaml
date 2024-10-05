@@ -9,23 +9,33 @@
         <ToolbarItem x:Name="DetailedView" Text="Detailed View" Clicked="DetailedView_Clicked"></ToolbarItem>
         <ToolbarItem x:Name="ViewTerm" Text="View Term" Clicked="ViewTerm_Clicked"></ToolbarItem>
         <ToolbarItem x:Name="EditTerm" Text="Edit Term" Clicked="EditTerm_Clicked"></ToolbarItem>
+        <ToolbarItem x:Name="AddTerm" Text="Add Term" Clicked="AddTerm_Clicked" Order="Secondary"></ToolbarItem>
+        <ToolbarItem x:Name="DeleteTerm" Text="Delete Term" Clicked="DeleteTerm_Clicked" Order="Secondary"></ToolbarItem>
     </ContentPage.ToolbarItems>
-    <ContentPage.Content>
-        <VerticalStackLayout>
-            <CollectionView
+        <ContentPage.Content>
+            <StackLayout>
+                <SearchBar Placeholder="Search Terms"
+            TextChanged="OnSearchBarTextChanged"
+            x:Name="termsSearchBar" />
+                <VerticalStackLayout>
+                <Button 
+Text="Generate Reports" 
+Clicked="Reports_Clicked"></Button>
+                <CollectionView
                 x:Name="collectionView" SelectionMode="Single" SelectionChanged="Terms_SelectionChanged">
-                <CollectionView.ItemTemplate>
-                    <DataTemplate>
-                        <VerticalStackLayout>
-                            <Label Text="{Binding TermTitle}"  />
-                            <StackLayout Orientation="Horizontal">
-                                <DatePicker Date="{Binding Start}"/>
-                                <DatePicker Date="{Binding End}" />
-                            </StackLayout>
-                        </VerticalStackLayout>
-                    </DataTemplate>
-                </CollectionView.ItemTemplate>
-            </CollectionView>
-        </VerticalStackLayout>
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <VerticalStackLayout>
+                                <Label Text="{Binding TermTitle}"  />
+                                <StackLayout Orientation="Horizontal">
+                                    <DatePicker Date="{Binding Start}"/>
+                                    <DatePicker Date="{Binding End}" />
+                                </StackLayout>
+                            </VerticalStackLayout>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </VerticalStackLayout>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

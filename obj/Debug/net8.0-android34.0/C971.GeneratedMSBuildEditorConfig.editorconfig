@@ -1,0 +1,167 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android34.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = C971
+build_property.ProjectDir = C:\Users\Francesco\3D Objects\d424-software-engineering-capstone\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/OBAssessmentReport.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.OBAssessmentReport.xaml
+build_metadata.AdditionalFiles.TargetPath = OBAssessmentReport.xaml
+build_metadata.AdditionalFiles.RelativePath = OBAssessmentReport.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/AddCourse.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.AddCourse.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddCourse.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddCourse.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/AddOBAssessment.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.AddOBAssessment.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddOBAssessment.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddOBAssessment.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/AddPFAssessments.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.AddPFAssessments.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddPFAssessments.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddPFAssessments.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/AddTerm.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.AddTerm.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddTerm.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddTerm.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/AppSettings.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.AppSettings.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AppSettings.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AppSettings.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/Assessment.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.Assessment.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Assessment.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Assessment.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/CourseReport.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.CourseReport.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CourseReport.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CourseReport.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/Dashboard.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.Dashboard.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/DetailedView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.DetailedView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DetailedView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DetailedView.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/EditAssessments.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.EditAssessments.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditAssessments.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditAssessments.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/EditCourse.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.EditCourse.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditCourse.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditCourse.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/EditOBAssessments.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.EditOBAssessments.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditOBAssessments.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditOBAssessments.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/EditTerm.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.EditTerm.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditTerm.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditTerm.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginPage.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/Notifications.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.Notifications.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Notifications.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Notifications.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/ObjectiveAssessment.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.ObjectiveAssessment.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ObjectiveAssessment.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ObjectiveAssessment.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/PerformanceAssessment.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.PerformanceAssessment.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PerformanceAssessment.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PerformanceAssessment.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/PFAssessmentReport.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.PFAssessmentReport.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PFAssessmentReport.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PFAssessmentReport.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/ReportPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.ReportPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ReportPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ReportPage.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/ViewDetails.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.ViewDetails.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ViewDetails.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ViewDetails.xaml
+
+[C:/Users/Francesco/3D Objects/d424-software-engineering-capstone/Views/ViewTerm.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C971.Views.ViewTerm.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ViewTerm.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ViewTerm.xaml

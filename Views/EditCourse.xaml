@@ -15,15 +15,21 @@
         <DatePicker x:Name="CourseEndPicker" Date="{Binding EndCourse}" />
 
         <Label Text="Course Notes:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"/>
-        <Label x:Name="courseNotesEntry"  Text="{Binding CourseNotes}" FontSize="Small"  Grid.Column="0" Grid.Row="9" Grid.ColumnSpan="2" IsEnabled="True"/>
+        <Entry x:Name="courseNotesEntry"  Text="{Binding CourseNotes}" FontSize="Small"  Grid.Column="0" Grid.Row="9" Grid.ColumnSpan="2" IsEnabled="True"/>
 
         <Button x:Name="ShareButton" Text="Share" FontSize="10" Grid.Column="1" Grid.Row="10" HeightRequest="32" CornerRadius="50" Margin="0,0,0,20" Clicked="ShareButton_Clicked"/>
 
-        <Label Text="Notifications:" FontSize="Small" Grid.Column="0" Grid.Row="11" VerticalOptions="Center" FontAttributes="Bold"/>
-        <Switch x:Name="notifications" Grid.Column="1" Grid.Row="11" Toggled="Notifications_Toggled"/>
+		<Label Text="Notifications:"></Label>
+        <Switch x:Name="notificationsSwitch" 
+        IsEnabled="True" 
+        IsToggled="{Binding NotificationsEnabled, Mode=TwoWay}" 
+        Toggled="Notifications_Toggled" />
+        
         <Label Text="Course Status:" FontSize="Small" FontAttributes="Bold"/>
 
-        <Picker x:Name="picker" Title="Select a status">
+        <Picker x:Name="picker" 
+        Title="Select a status" 
+        SelectedItem="{Binding CourseStatus}">
             <Picker.ItemsSource>
                 <x:Array Type="{x:Type x:String}">
                     <x:String>In progress</x:String>

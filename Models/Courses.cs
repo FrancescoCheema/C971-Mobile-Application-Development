@@ -21,6 +21,7 @@ namespace C971.Models
         public string instructorPhone;
         public string instructorEmail;
         public string selectedStatus;
+        public bool _notificationsEnabled { get; set; }
         public int termId;
 
         [PrimaryKey, AutoIncrement]
@@ -29,8 +30,24 @@ namespace C971.Models
             get => courseId;
             set
             {
-                courseId = value;
-                OnPropertyChanged(nameof(CourseId));
+                if (courseId != value)
+                {
+                    courseId = value;
+                    OnPropertyChanged(nameof(CourseId));
+                }
+            }
+        }
+
+        public bool NotificationsEnabled
+        {
+            get => _notificationsEnabled;
+            set
+            {
+                if (_notificationsEnabled != value)
+                {
+                    _notificationsEnabled = value;
+                    OnPropertyChanged(nameof(NotificationsEnabled));
+                }
             }
         }
 

@@ -1,105 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\",
+  "WorkspaceRootPath": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone - Copy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\views\\viewterm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:views\\viewterm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\francesco\\3d objects\\d424-software-engineering-capstone - copy\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\views\\viewterm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:views\\viewterm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Maui.Sdk\\8.0.72\\Sdk\\BundledVersions.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\views\\addcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:views\\addcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\targets\\Microsoft.Android.Sdk.Aot.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\views\\addcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:views\\addcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\views\\editcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:views\\editcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\tools\\Xamarin.Android.Tooling.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fcheema\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\views\\editterm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:views\\editterm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\views\\editcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:views\\editcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\models\\terms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:models\\terms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\c971.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:c971.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\views\\detailedview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:views\\detailedview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\views\\detailedview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:views\\detailedview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\views\\editterm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:views\\editterm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\views\\appsettings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:views\\appsettings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\services\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:services\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|c:\\users\\fcheema\\pictures\\c971-mobile-application-development-using-c-sharp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80674BE4-ED85-47C7-9135-AE5AF1988067}|C971.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fcheema\\source\\repos\\C971\\Views\\GadgetList.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
@@ -111,8 +28,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fcheema\\source\\repos\\C971\\Views\\GadgetAdd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\obj\\Debug\\net7.0-maccatalyst\\maccatalyst-x64\\C971.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net7.0-maccatalyst\\maccatalyst-x64\\C971.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\obj\\Debug\\net7.0-maccatalyst\\maccatalyst-x64\\C971.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fcheema\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
@@ -124,8 +40,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "DockedWidth": 800,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -136,372 +52,122 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EditCourse.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\EditCourse.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\EditCourse.xaml.cs",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\EditCourse.xaml.cs",
-              "RelativeToolTip": "Views\\EditCourse.xaml.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAmwDUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T16:02:24.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddCourse.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\AddCourse.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\AddCourse.xaml.cs",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\AddCourse.xaml.cs",
-              "RelativeToolTip": "Views\\AddCourse.xaml.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAADgvzcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T14:57:58.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DetailedView.xaml",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\DetailedView.xaml",
-              "RelativeDocumentMoniker": "Views\\DetailedView.xaml",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\DetailedView.xaml",
-              "RelativeToolTip": "Views\\DetailedView.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T15:49:59.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddTerm.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml.cs",
-              "RelativeDocumentMoniker": "..\\..\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml.cs",
-              "ToolTip": "C:\\Users\\fcheema\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml.cs",
-              "RelativeToolTip": "..\\..\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAIwB4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T16:28:38.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Terms.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Models\\Terms.cs",
-              "RelativeDocumentMoniker": "Models\\Terms.cs",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Models\\Terms.cs",
-              "RelativeToolTip": "Models\\Terms.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwAkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T15:59:17.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DatabaseService.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Services\\DatabaseService.cs",
-              "RelativeDocumentMoniker": "Services\\DatabaseService.cs",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Services\\DatabaseService.cs",
-              "RelativeToolTip": "Services\\DatabaseService.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAiwG8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T20:29:04.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ViewTerm.xaml",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\ViewTerm.xaml",
-              "RelativeDocumentMoniker": "Views\\ViewTerm.xaml",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\ViewTerm.xaml",
-              "RelativeToolTip": "Views\\ViewTerm.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T17:42:51.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddCourse.xaml",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\AddCourse.xaml",
-              "RelativeDocumentMoniker": "Views\\AddCourse.xaml",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\AddCourse.xaml",
-              "RelativeToolTip": "Views\\AddCourse.xaml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAAC8AAAB4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-02T17:16:28.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EditTerm.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\EditTerm.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\EditTerm.xaml.cs",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\EditTerm.xaml.cs",
-              "RelativeToolTip": "Views\\EditTerm.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:54:03.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "C971.csproj",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\C971.csproj",
-              "RelativeDocumentMoniker": "C971.csproj",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\C971.csproj",
-              "RelativeToolTip": "C971.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-14T17:35:47.65Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ViewTerm.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\ViewTerm.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\ViewTerm.xaml.cs",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\ViewTerm.xaml.cs*",
-              "RelativeToolTip": "Views\\ViewTerm.xaml.cs*",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAnwG8AAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:54:06.389Z",
-              "EditorCaption": ""
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone - Copy\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone - Copy\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-03T07:01:51.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EditCourse.xaml",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\EditCourse.xaml",
-              "RelativeDocumentMoniker": "Views\\EditCourse.xaml",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\EditCourse.xaml",
-              "RelativeToolTip": "Views\\EditCourse.xaml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-02T15:11:42.802Z"
+              "DocumentIndex": 1,
+              "Title": "BundledVersions.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Maui.Sdk\\8.0.72\\Sdk\\BundledVersions.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Maui.Sdk\\8.0.72\\Sdk\\BundledVersions.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Maui.Sdk\\8.0.72\\Sdk\\BundledVersions.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Maui.Sdk\\8.0.72\\Sdk\\BundledVersions.targets",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAtwG8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-22T22:10:54.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Courses.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Models\\Courses.cs",
-              "RelativeDocumentMoniker": "Models\\Courses.cs",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Models\\Courses.cs",
-              "RelativeToolTip": "Models\\Courses.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T16:55:15.781Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "Microsoft.Android.Sdk.Aot.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\targets\\Microsoft.Android.Sdk.Aot.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\targets\\Microsoft.Android.Sdk.Aot.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\targets\\Microsoft.Android.Sdk.Aot.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\targets\\Microsoft.Android.Sdk.Aot.targets",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAqwGQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-18T06:58:00.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Dashboard.xaml",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\Dashboard.xaml",
-              "RelativeDocumentMoniker": "Views\\Dashboard.xaml",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\Dashboard.xaml",
-              "RelativeToolTip": "Views\\Dashboard.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-02T15:21:13.784Z"
+              "DocumentIndex": 3,
+              "Title": "Xamarin.Android.Tooling.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\tools\\Xamarin.Android.Tooling.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\tools\\Xamarin.Android.Tooling.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\tools\\Xamarin.Android.Tooling.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\tools\\Xamarin.Android.Tooling.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAACBzwA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-14T02:32:30.336Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Dashboard.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\Dashboard.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\Dashboard.xaml.cs",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\Dashboard.xaml.cs",
-              "RelativeToolTip": "Views\\Dashboard.xaml.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAArwD8AAAA6AAAA",
+              "Title": "AddTerm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fcheema\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\fcheema\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml.cs",
+              "ToolTip": "C:\\Users\\fcheema\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\fcheema\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T16:19:43.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T16:28:38.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EditTerm.xaml",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\EditTerm.xaml",
-              "RelativeDocumentMoniker": "Views\\EditTerm.xaml",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\EditTerm.xaml",
-              "RelativeToolTip": "Views\\EditTerm.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T17:42:58.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DetailedView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\DetailedView.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\DetailedView.xaml.cs",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\DetailedView.xaml.cs",
-              "RelativeToolTip": "Views\\DetailedView.xaml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:53:35.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-07-02T15:07:27.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppSettings.xaml",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\AppSettings.xaml",
-              "RelativeDocumentMoniker": "Views\\AppSettings.xaml",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Views\\AppSettings.xaml",
-              "RelativeToolTip": "Views\\AppSettings.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T17:43:05.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 8,
               "Title": "C971.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\obj\\Debug\\net7.0-maccatalyst\\maccatalyst-x64\\C971.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net7.0-maccatalyst\\maccatalyst-x64\\C971.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\obj\\Debug\\net7.0-maccatalyst\\maccatalyst-x64\\C971.AssemblyInfo.cs",
-              "RelativeToolTip": "obj\\Debug\\net7.0-maccatalyst\\maccatalyst-x64\\C971.AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\obj\\Debug\\net7.0-maccatalyst\\maccatalyst-x64\\C971.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\d424-software-engineering-capstone\\obj\\Debug\\net7.0-maccatalyst\\maccatalyst-x64\\C971.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\obj\\Debug\\net7.0-maccatalyst\\maccatalyst-x64\\C971.AssemblyInfo.cs",
+              "RelativeToolTip": "..\\d424-software-engineering-capstone\\obj\\Debug\\net7.0-maccatalyst\\maccatalyst-x64\\C971.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T18:16:09.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 9,
               "Title": "AddTerm.xaml",
               "DocumentMoniker": "C:\\Users\\fcheema\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml",
-              "RelativeDocumentMoniker": "..\\..\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\fcheema\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml",
               "ToolTip": "C:\\Users\\fcheema\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml",
-              "RelativeToolTip": "..\\..\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "RelativeToolTip": "..\\..\\..\\fcheema\\c971-mobile-application-development-using-c-sharp\\Views\\AddTerm.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-30T16:28:35.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MainActivity.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Platforms\\Android\\MainActivity.cs",
-              "RelativeDocumentMoniker": "Platforms\\Android\\MainActivity.cs",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Platforms\\Android\\MainActivity.cs",
-              "RelativeToolTip": "Platforms\\Android\\MainActivity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T15:10:07.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MainApplication.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Platforms\\Android\\MainApplication.cs",
-              "RelativeDocumentMoniker": "Platforms\\Android\\MainApplication.cs",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Platforms\\Android\\MainApplication.cs",
-              "RelativeToolTip": "Platforms\\Android\\MainApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T15:10:05.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Settings.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Services\\Settings.cs",
-              "RelativeDocumentMoniker": "Services\\Settings.cs",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\Services\\Settings.cs",
-              "RelativeToolTip": "Services\\Settings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T20:29:20.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 5,
               "Title": "GadgetList.xaml",
               "DocumentMoniker": "C:\\Users\\fcheema\\source\\repos\\C971\\Views\\GadgetList.xaml",
-              "RelativeDocumentMoniker": "..\\..\\source\\repos\\C971\\Views\\GadgetList.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\fcheema\\source\\repos\\C971\\Views\\GadgetList.xaml",
               "ToolTip": "C:\\Users\\fcheema\\source\\repos\\C971\\Views\\GadgetList.xaml",
-              "RelativeToolTip": "..\\..\\source\\repos\\C971\\Views\\GadgetList.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "RelativeToolTip": "..\\..\\..\\fcheema\\source\\repos\\C971\\Views\\GadgetList.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-02T16:29:19.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 6,
               "Title": "GadgetEdit.xaml",
               "DocumentMoniker": "C:\\Users\\fcheema\\source\\repos\\C971\\Views\\GadgetEdit.xaml",
-              "RelativeDocumentMoniker": "..\\..\\source\\repos\\C971\\Views\\GadgetEdit.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\fcheema\\source\\repos\\C971\\Views\\GadgetEdit.xaml",
               "ToolTip": "C:\\Users\\fcheema\\source\\repos\\C971\\Views\\GadgetEdit.xaml",
-              "RelativeToolTip": "..\\..\\source\\repos\\C971\\Views\\GadgetEdit.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "RelativeToolTip": "..\\..\\..\\fcheema\\source\\repos\\C971\\Views\\GadgetEdit.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-02T16:29:02.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 7,
               "Title": "GadgetAdd.xaml",
               "DocumentMoniker": "C:\\Users\\fcheema\\source\\repos\\C971\\Views\\GadgetAdd.xaml",
-              "RelativeDocumentMoniker": "..\\..\\source\\repos\\C971\\Views\\GadgetAdd.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\fcheema\\source\\repos\\C971\\Views\\GadgetAdd.xaml",
               "ToolTip": "C:\\Users\\fcheema\\source\\repos\\C971\\Views\\GadgetAdd.xaml",
-              "RelativeToolTip": "..\\..\\source\\repos\\C971\\Views\\GadgetAdd.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "RelativeToolTip": "..\\..\\..\\fcheema\\source\\repos\\C971\\Views\\GadgetAdd.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-02T16:28:43.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-02T16:19:49.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T15:21:16.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MauiProgram.cs",
-              "ToolTip": "C:\\Users\\fcheema\\Pictures\\c971-mobile-application-development-using-c-sharp\\MauiProgram.cs",
-              "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T15:09:48.381Z"
             }
           ]
         }

@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\AddCourse.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\AddCourse.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\EditCourse.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\EditCourse.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Platforms\\Android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Platforms\\Android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Services\\DatabaseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\DatabaseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\App.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\C971.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C971.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\ViewTerm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\ViewTerm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\OBAssessmentReport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OBAssessmentReport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\ViewDetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\ViewDetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\ReportPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\ReportPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\PFAssessmentReport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\PFAssessmentReport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\PerformanceAssessment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\PerformanceAssessment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\ObjectiveAssessment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\ObjectiveAssessment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\Notifications.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Notifications.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\LoginPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\LoginPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\EditTerm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\EditTerm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\EditOBAssessments.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\EditOBAssessments.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\EditCourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\EditCourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\EditAssessments.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\EditAssessments.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\git-history.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:git-history.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 106,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCourse.xaml",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\AddCourse.xaml",
+              "RelativeDocumentMoniker": "Views\\AddCourse.xaml",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\AddCourse.xaml",
+              "RelativeToolTip": "Views\\AddCourse.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T08:22:44.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-15T20:50:04.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-15T20:49:54.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAO0AAAAAAAAAAIBZwPIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-14T02:10:50.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditCourse.xaml",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\EditCourse.xaml",
+              "RelativeDocumentMoniker": "Views\\EditCourse.xaml",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\EditCourse.xaml",
+              "RelativeToolTip": "Views\\EditCourse.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T02:52:29.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "Services\\DatabaseService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:13:17.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OBAssessmentReport.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\OBAssessmentReport.xaml.cs",
+              "RelativeDocumentMoniker": "OBAssessmentReport.xaml.cs",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\OBAssessmentReport.xaml.cs",
+              "RelativeToolTip": "OBAssessmentReport.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:05:42.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewTerm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\ViewTerm.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ViewTerm.xaml.cs",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\ViewTerm.xaml.cs",
+              "RelativeToolTip": "Views\\ViewTerm.xaml.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAwNMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:54:04.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "C971.csproj",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\C971.csproj",
+              "RelativeDocumentMoniker": "C971.csproj",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\C971.csproj",
+              "RelativeToolTip": "C971.csproj",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T07:50:42.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\ViewDetails.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ViewDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\ViewDetails.xaml.cs",
+              "RelativeToolTip": "Views\\ViewDetails.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:53:56.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\ReportPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ReportPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\ReportPage.xaml.cs",
+              "RelativeToolTip": "Views\\ReportPage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:53:48.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PFAssessmentReport.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\PFAssessmentReport.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\PFAssessmentReport.xaml.cs",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\PFAssessmentReport.xaml.cs",
+              "RelativeToolTip": "Views\\PFAssessmentReport.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:53:39.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PerformanceAssessment.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\PerformanceAssessment.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\PerformanceAssessment.xaml.cs",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\PerformanceAssessment.xaml.cs",
+              "RelativeToolTip": "Views\\PerformanceAssessment.xaml.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAwO4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:53:28.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ObjectiveAssessment.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\ObjectiveAssessment.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ObjectiveAssessment.xaml.cs",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\ObjectiveAssessment.xaml.cs",
+              "RelativeToolTip": "Views\\ObjectiveAssessment.xaml.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAwOEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:53:18.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Notifications.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\Notifications.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\Notifications.xaml.cs",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\Notifications.xaml.cs",
+              "RelativeToolTip": "Views\\Notifications.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:53:16.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:53:02.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditTerm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\EditTerm.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EditTerm.xaml.cs",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\EditTerm.xaml.cs",
+              "RelativeToolTip": "Views\\EditTerm.xaml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:52:51.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditOBAssessments.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\EditOBAssessments.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EditOBAssessments.xaml.cs",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\EditOBAssessments.xaml.cs",
+              "RelativeToolTip": "Views\\EditOBAssessments.xaml.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:52:41.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditCourse.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\EditCourse.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EditCourse.xaml.cs",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\EditCourse.xaml.cs",
+              "RelativeToolTip": "Views\\EditCourse.xaml.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAAwOQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:52:31.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditAssessments.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\EditAssessments.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EditAssessments.xaml.cs",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\Views\\EditAssessments.xaml.cs",
+              "RelativeToolTip": "Views\\EditAssessments.xaml.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:52:18.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "git-history.txt",
+              "DocumentMoniker": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\git-history.txt",
+              "RelativeDocumentMoniker": "git-history.txt",
+              "ToolTip": "C:\\Users\\Francesco\\3D Objects\\d424-software-engineering-capstone\\git-history.txt",
+              "RelativeToolTip": "git-history.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-07T00:29:20.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

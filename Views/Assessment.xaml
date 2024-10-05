@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C971.Views.Assessment"
+             Title="Assessment">
+    <StackLayout>
+        <RadioButton Content="Objective Assessment" CheckedChanged="RadioButton_CheckedChanged"></RadioButton>
+        <RadioButton Content="Performance Assessment" CheckedChanged="RadioButton_CheckedChanged_1"></RadioButton>
+    </StackLayout>
+</ContentPage>

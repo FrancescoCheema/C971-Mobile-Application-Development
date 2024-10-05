@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using SQLite;
 using C971.Models;
+using System.Collections.ObjectModel;
 
 namespace C971.Models
 {

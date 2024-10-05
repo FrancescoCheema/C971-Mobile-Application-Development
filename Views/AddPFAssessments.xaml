@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C971.Views.AddPFAssessments"
+             Title="AddPFAssessments">
+    <VerticalStackLayout>
+        <Label Text="Performance Assessment Name:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"/>
+        <Entry x:Name="PerformanceAssessmentLabel" Placeholder="Enter the Performance Assessment's name" FontSize="Small" Grid.Column="0" Grid.Row="7" VerticalOptions="Center"  Margin="0,0,0,10"/>
+
+        <Label Text="Start:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"/>
+        <DatePicker x:Name="PFAssessmentsPicker" Date="{Binding Start}"/>
+
+        <Label Text="End:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold" />
+        <DatePicker x:Name="PFAssessmentsEndPicker" Date="{Binding End}" />
+
+        <Label Text="Notifications:"></Label>
+        <Switch x:Name="notificationsSwitch" 
+        IsEnabled="True" 
+        IsToggled="{Binding NotificationsEnabled, Mode=TwoWay}" 
+        Toggled="Notifications_Toggled" />
+
+        <Button x:Name="saveButton" Text="Save" FontSize="10" Grid.Column="1" Grid.Row="10" HeightRequest="32" CornerRadius="50" Margin="0,0,0,20" Clicked="Button_Clicked_1" IsEnabled="True"/>
+        <Button Text="Cancel" FontSize="10" Grid.Column="1" Grid.Row="10" HeightRequest="32" CornerRadius="50" Margin="0,0,0,20" Clicked="Button_Clicked" />
+    </VerticalStackLayout>
+</ContentPage>

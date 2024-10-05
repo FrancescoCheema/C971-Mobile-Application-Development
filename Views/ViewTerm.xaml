@@ -10,16 +10,24 @@
         <ToolbarItem x:Name="DeleteCourse" Text="Delete Course" Clicked="DeleteCourse_Clicked" Order="Secondary"></ToolbarItem>
         <ToolbarItem x:Name="AdddCourse" Text="Add Course" Clicked="AdddCourse_Clicked" Order="Secondary"></ToolbarItem>
     </ContentPage.ToolbarItems>
-    <VerticalStackLayout>
-        <CollectionView
+    <StackLayout>
+        <SearchBar Placeholder="Search Courses"
+               TextChanged="OnSearchBarTextChanged"
+               x:Name="CourseSearchBar" />
+        <VerticalStackLayout>
+                <Button 
+Text="Generate Reports" 
+Clicked="Button_Clicked"></Button>
+                <CollectionView
          x:Name="collectionView" SelectionMode="Single" SelectionChanged="collectionView_SelectionChanged_1">
-            <CollectionView.ItemTemplate>
-                <DataTemplate>
-                    <VerticalStackLayout>
-                        <Label Text="{Binding CourseTitle}"  />
-                    </VerticalStackLayout>
-                </DataTemplate>
-            </CollectionView.ItemTemplate>
-        </CollectionView>
-    </VerticalStackLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <VerticalStackLayout>
+                            <Label Text="{Binding CourseTitle}"  />
+                        </VerticalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+    </StackLayout>
 </ContentPage>

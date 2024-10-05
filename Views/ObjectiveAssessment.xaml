@@ -1,24 +1,43 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:C971.Models"
              x:Class="C971.Views.ObjectiveAssessment"
-             Title="ObjectiveAssessment">
-    <VerticalStackLayout>
-        <Grid ColumnSpacing="10" RowSpacing="10">
-            <Label Text="Assessment Name:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"></Label>
-
-            <Entry Grid.Row="9" Grid.Column="1" Text="Objective Assessment for" Margin="0,22,0,0" IsEnabled="False"/>
-
-            <Label Grid.Row="7" Grid.Column="0" Text="{Binding CourseTitle}" VerticalOptions="Center" Margin="170,30,0,10" />
-
-        </Grid>
-        <Label Text="Start:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold"/>
-        <DatePicker x:Name="CoursePicker" Date="{Binding StartCourse}" />
-
-        <Label Text="End:" FontSize="Small" Grid.Column="0" Grid.Row="8" FontAttributes="Bold" />
-        <DatePicker x:Name="CourseEndPicker" Date="{Binding EndCourse}" />
-
-        <Label Text="Notifications:" FontSize="Small" Grid.Column="0" Grid.Row="11" VerticalOptions="Center" FontAttributes="Bold"/>
-        <Switch x:Name="notifications" Grid.Column="1" Grid.Row="11" IsEnabled="True" />
-    </VerticalStackLayout>
+             >
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="AddAssessments" Text="Add Assessments" Clicked="AddAssessments_Clicked"></ToolbarItem>
+        <ToolbarItem x:Name="DeleteOBAssessments" Text="Delete Objective Assessment" Clicked="DeleteOBAssessments_Clicked"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <StackLayout>
+        <SearchBar Placeholder="Search Objective Assessments"
+               TextChanged="OnSearchBarTextChanged"
+               x:Name="assessmentSearchBar" />
+        <VerticalStackLayout>
+            <Button 
+Text="Generate Reports" 
+Clicked="Button_Clicked"></Button>
+            <ListView
+    x:Name="obassessmentListView"
+    RowHeight="150"
+    SeparatorVisibility="None"
+    SelectionMode="Single"
+    ItemTapped="assessmentListView_ItemTapped"
+    ItemSelected="assessmentListView_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout x:Name="assessmentStackLayout" Padding="10" BackgroundColor="White">
+                                <Label Text="Objective Assessment Name:" FontSize="Small" FontAttributes="Bold"/>
+                                <Label Text="{Binding ObjectiveAssessmentName}" />
+                                <Label Text="Start:" FontSize="Small" FontAttributes="Bold"/>
+                                <Label Text="{Binding ObStart, StringFormat='{0:MM/dd/yyyy}'}" />
+                                <Label Text="End:" FontSize="Small" FontAttributes="Bold"/>
+                                <Label Text="{Binding ObEnd, StringFormat='{0:MM/dd/yyyy}'}" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </VerticalStackLayout>
+    </StackLayout>
 </ContentPage>

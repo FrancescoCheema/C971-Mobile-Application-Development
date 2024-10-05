@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C971.Views.AddTerm">
+    <VerticalStackLayout>
+        <Label Text="Enter Term Name:" FontSize="Small" FontAttributes="Bold"/>
+        <Entry x:Name="termTitleLabel" Text="{Binding TermTitle}" FontSize="Small" VerticalOptions="Center" Margin="0,0,0,10"/>
+        <Label Text="Start:" FontSize="Small" FontAttributes="Bold"/>
+        <DatePicker x:Name="termPicker" Date="{Binding Start}"/>
+        <Label Text="End:" FontSize="Small" FontAttributes="Bold"/>
+        <DatePicker x:Name="termEndPicker" Date="{Binding End}"/>
+        <Button x:Name="saveTermButton" Text="Save" FontSize="10" HeightRequest="32" CornerRadius="50" Margin="0,0,0,20" Clicked="Button_Clicked_1" IsEnabled="True"/>
+        <Button Text="Cancel" FontSize="10" HeightRequest="32" CornerRadius="50" Margin="0,0,0,20" Clicked="Button_Clicked"/>
+    </VerticalStackLayout>
+</ContentPage>

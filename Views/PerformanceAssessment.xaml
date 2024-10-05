@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:C971.Models"
+             x:Class="C971.Views.PerformanceAssessment"
+             >
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="AddAssessments" Text="Add Assessments" Clicked="AddAssessments_Clicked"></ToolbarItem>
+        <ToolbarItem x:Name="ObjectiveAssessments" Text="Objective Assessments" Clicked="ObjectiveAssessments_Clicked"></ToolbarItem>
+        <ToolbarItem x:Name="DeletePFAssessments" Text="Delete Performance Assessment" Clicked="DeleteAssessments_Clicked" Order="Secondary"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <StackLayout>
+        <SearchBar Placeholder="Search Performance Assessments"
+                   TextChanged="OnSearchBarTextChanged"
+                   x:Name="assessmentSearchBar" />
+        <VerticalStackLayout>
+            <Button 
+Text="Generate Reports" 
+Clicked="Button_Clicked"></Button>
+            <ListView
+        x:Name="assessmentListView"
+        RowHeight="150"
+        SeparatorVisibility="None"
+        SelectionMode="Single"
+        ItemTapped="assessmentListView_ItemTapped"
+        ItemSelected="assessmentListView_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout x:Name="assessmentStackLayout" Padding="10" BackgroundColor="White">
+                                <Label Text="Performance Assessment Name:" FontSize="Small" FontAttributes="Bold"/>
+                                <Label Text="{Binding PerformanceAssessmentName}" />
+                                <Label Text="Start:" FontSize="Small" FontAttributes="Bold"/>
+                                <Label Text="{Binding Start, StringFormat='{0:MM/dd/yyyy}'}" />
+                                <Label Text="End:" FontSize="Small" FontAttributes="Bold"/>
+                                <Label Text="{Binding End, StringFormat='{0:MM/dd/yyyy}'}" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </VerticalStackLayout>
+    </StackLayout>
+</ContentPage>

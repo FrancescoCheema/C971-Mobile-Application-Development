@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C971.Views.LoginPage"
+             Title="LoginPage">
+    <StackLayout Padding="30">
+        <Label Text="Login" FontSize="24" FontAttributes="Bold" HorizontalOptions="Center" />
+
+        <Entry x:Name="UsernameEntry" Placeholder="Username" />
+        <Entry x:Name="PasswordEntry" Placeholder="Password" IsPassword="True" />
+
+        <Button Text="Login" Clicked="OnLoginButtonClicked" />
+
+        <Label x:Name="LoginStatusLabel" TextColor="Red" IsVisible="False" />
+    </StackLayout>
+</ContentPage>
